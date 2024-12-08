@@ -3,6 +3,8 @@ body_models/
 humanact12/
 pose_data/
 joints/
+new_joint_vecs/
+new_joints/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
